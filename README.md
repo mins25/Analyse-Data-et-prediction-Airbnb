@@ -9,7 +9,7 @@ Ce projet vise à analyser et prédire les **prix des logements Airbnb** à part
 - `airbnb_train.csv` : Données d'entraînement.
 - `airbnb_test.csv` : Données de test (sans prix).
 - `prediction_example.csv` : Format de soumission.
-- `notebook.py` ou `main.py` : Script principal contenant toutes les étapes d’analyse et de modélisation.
+- `notebook_Airbnb.html` : Script principal contenant toutes les étapes d’analyse et de modélisation.
 - `README.md` : Ce fichier.
 
 ---
@@ -73,8 +73,3 @@ Modèles testés :
 | Random Forest             | **≈ 0.78**   |
 
 ---
-
-## 🛠️ Dépendances
-
-```bash
-pip install numpy pandas seaborn matplotlib scikit-learn folium
