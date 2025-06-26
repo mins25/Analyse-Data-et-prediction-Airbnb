@@ -30,9 +30,9 @@ Ce projet vise à analyser et prédire les **prix des logements Airbnb** à part
 - Analyse par ville, type de propriété, type de chambre, etc.
 - Visualisation via seaborn, matplotlib, folium (heatmap, clustering, etc.)
 
-![image](https://github.com/user-attachments/assets/8c643d68-65e9-4238-88d4-ba2e2289ec39)
+![video]([[https://github.com/user-attachments/assets/dbf2f6ce-93bf-41ba-bc7a-5fa11161fdf1](https://github.com/user-attachments/assets/03840a4e-a4a2-41d6-8ba8-6793b08a73ce)](https://github.com/mins25/Analyse-Data-et-prediction-prix-Airbnb/blob/main/Heatmap.mp4))
 
-![video]([https://github.com/user-attachments/assets/dbf2f6ce-93bf-41ba-bc7a-5fa11161fdf1](https://github.com/user-attachments/assets/03840a4e-a4a2-41d6-8ba8-6793b08a73ce))
+![image](https://github.com/user-attachments/assets/8c643d68-65e9-4238-88d4-ba2e2289ec39)
 
 
 
