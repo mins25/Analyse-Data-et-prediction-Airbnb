@@ -1,4 +1,4 @@
-# 🏠 Prédiction du Prix des Annonces Airbnb
+# 🏠 Prédiction du Prix des Annonces Airbnb, notebook python
 
 Ce projet vise à analyser et prédire les **prix des logements Airbnb** à partir d'un ensemble de données fournies, en utilisant plusieurs techniques de visualisation, de prétraitement et de modélisation.
 
