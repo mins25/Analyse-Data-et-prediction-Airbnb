@@ -51,10 +51,6 @@ Modèles testés :
 - Métrique utilisée : **R² Score**
 - Meilleure performance : `RandomForestRegressor`
 
-### 5. Prédiction
-- Prédictions générées pour `airbnb_test.csv`
-- Résultat sauvegardé dans `prediction_example.csv` avec la colonne `logpred`.
-
 ---
 
 ## 📈 Résultats des modèles
